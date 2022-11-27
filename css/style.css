@@ -655,7 +655,7 @@ h3.my-profession
 {
     display: inline-block;
 }
-.contact .contact-info-item .icon .fa
+.contact .contact-info-item .icon .fa, .fa-github
 {
     font-size: 25px;
     color: var(--skin-color);
